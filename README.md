@@ -15,3 +15,5 @@ contains around 40 independent variables and 4000 data points. The independent v
 7. In which state there are more Graduate passedouts?
 8. In Which Specialization people got the jobs more?
 9. More People are getting settled in which age?
+# Data Visualization
+## Univariate Analysis
