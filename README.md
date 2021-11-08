@@ -16,4 +16,5 @@ contains around 40 independent variables and 4000 data points. The independent v
 8. In Which Specialization people got the jobs more?
 9. More People are getting settled in which age?
 # Data Visualization
-## Univariate Analysis
+## Univariate Analysis![image](https://user-images.githubusercontent.com/84897604/140739474-fd3d6ecc-0f6b-4bd5-b49d-4470ec569627.png)
+
