@@ -32,7 +32,7 @@ At the age 22 more people settled in their jobs
 ### Observation:
 More number of graduates come from the year 2013
 
-# Bi-variate
+# Bi-variate Analysis
 ![image](https://user-images.githubusercontent.com/84897604/140740248-9b8e177c-20e3-4466-a049-419c6b1816cb.png)
 ### Observation:
 Males earnings are more when compared to females
@@ -42,7 +42,7 @@ Males earnings are more when compared to females
 ### Observation:
 B.tech/B.E got more increments in salary
 
-# Multi-variate
+# Multi-variate Analysis
 ![image](https://user-images.githubusercontent.com/84897604/140740407-296889fb-f334-477a-906e-a05b44df1ce1.png)
 
 
